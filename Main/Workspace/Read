@@ -1,0 +1,6 @@
+Introducing the Second-Stage Prototype of DeepSite_Replica
+
+This new version of DeepSite_Replica is compatible with VS Code.
+Simply give your prompt, and it will generate the corresponding HTML code and save it as an HTML file automatically.
+
+This is the second-stage prototype—the final model will retain all current features while introducing advanced capabilities for enhanced performance and flexibility.
