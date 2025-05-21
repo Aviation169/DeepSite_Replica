@@ -1,6 +1,6 @@
 ## 🤖DeepSite Replica: AI-Powered Website Generator🤖
 
-DeepSite Replica is a Streamlit-based application that leverages the `llama3.2:latest model` and `deepseek-r1:latest model` (via Ollama) to generate unique, prompt-driven website UIs. 
+DeepSite Replica is a Streamlit and tinker application that leverages the `llama3.2:latest model` and `deepseek-r1:latest model` (via Ollama) to generate unique, prompt-driven website UIs. 
 Users can specify a website description `(e.g., "Create a chatbot UI" or "Create a blog website")`, choose a design style `(e.g., Modern Gradient, Minimalistic)`, and select a CSS framework `(e.g., Tailwind CSS, Bootstrap)`. 
 The app generates HTML, CSS, and JavaScript files, compiles them into a local directory, and serves the website via a local HTTP server for instant preview.
 
